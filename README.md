@@ -5,7 +5,7 @@
 A passionate software engineer living in Central Florida with my partner, Katie, and our four amazing children.
 
 - 💼 I’m currently employed by [Human Made](https://hmn.md) as a Senior Web Engineer
-- 🔥 I’m currently working on my side project, [Scrum.to](https://scrum.to)
+- 🔥 And working on my side project, [Scrum.to](https://scrum.to)
 
 
 **Languages and tools I commonly use:**  
