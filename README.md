@@ -1,4 +1,4 @@
-### Hi there, I'm [Kevin Langley Jr!](https://kevinlangleyjr.dev) 👋
+## Hi there, I'm [Kevin Langley Jr!](https://kevinlangleyjr.dev) 👋
 
 <br />
 
@@ -8,6 +8,18 @@ A passionate software engineer living in Central Florida with my partner, Katie,
 - 🔥 On the side, I can be found working on my side project, [Scrum.to](https://scrum.to)
 - 🎉 Or contributing to [Blitz.js](https://github.com/blitz-js/blitz) as an L1 Maintainer.
 
+### 🖥 Workstations
+**Hackintosh**
+- 3.6 GHz 10-Core Intel Core i9-10850K
+- 64 GB DDR4 RAM
+- macOs Catalina
+
+**13" 2019 MacBook Pro**
+- 2.8 GHz Quad-Core Intel Core i7
+- 16 GB RAM
+- macOs Catalina
+
+I use Visual Studio Code as my main IDE but at times use Sublime Text for large files.
 
 **Languages and tools I commonly use:**  
 
