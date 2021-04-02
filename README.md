@@ -8,7 +8,7 @@ A passionate software engineer living in Central Florida with my partner, Katie,
 - 🔥 &nbsp;&nbsp;On the side, I can be found working on my side project, [Scrum.to](https://scrum.to)
 - 🎉 &nbsp;&nbsp;Or contributing to [Blitz.js](https://github.com/blitz-js/blitz) as an L1 Maintainer.
 
-### **Workstations**
+## **Devices**
 🖥  &nbsp;&nbsp;**Hackintosh**
 - 3.6 GHz 10-Core Intel Core i9-10850K
 - 64 GB DDR4 RAM
@@ -24,7 +24,7 @@ A passionate software engineer living in Central Florida with my partner, Katie,
 - 500GB SSD
 - macOs Catalina
 
-📱&nbsp;&nbsp;**Google Pixel 3XL 128GB**
+📱  &nbsp;&nbsp;**Google Pixel 3XL 128GB**
 
 <img height="18" src="https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1617326788/github-readme/apple-ipad_qyj1we.svg" />&nbsp;&nbsp;**5th Generation iPad 32GB**
 
