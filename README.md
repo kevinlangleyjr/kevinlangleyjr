@@ -1,4 +1,4 @@
-## Hi there, I'm [Kevin Langley Jr!](https://kevinlangleyjr.dev) 👋
+# **Hi there, I'm [Kevin Langley Jr!](https://kevinlangleyjr.dev) 👋**
 
 <br />
 
