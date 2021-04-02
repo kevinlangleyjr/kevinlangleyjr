@@ -4,9 +4,9 @@
 
 A passionate software engineer living in Central Florida with my partner, Katie, and our four amazing children.
 
-- 💼 I’m currently employed by [Human Made](https://hmn.md) as a Principal Web Engineer
-- 🔥 On the side, I can be found working on my side project, [Scrum.to](https://scrum.to)
-- 🎉 Or contributing to [Blitz.js](https://github.com/blitz-js/blitz) as an L1 Maintainer.
+- 💼 &nbsp;&nbsp;I’m currently employed by [Human Made](https://hmn.md) as a Principal Web Engineer
+- 🔥 &nbsp;&nbsp;On the side, I can be found working on my side project, [Scrum.to](https://scrum.to)
+- 🎉 &nbsp;&nbsp;Or contributing to [Blitz.js](https://github.com/blitz-js/blitz) as an L1 Maintainer.
 
 ### **Workstations**
 🖥  &nbsp;&nbsp;**Hackintosh**
