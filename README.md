@@ -23,9 +23,14 @@ A passionate software engineer living in Central Florida with my partner, Katie,
 **Default Browser**  
 <img height="14" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" /> Google Chrome
 
+**Secondary Browser**  
+<img height="14" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" /> Firefox
+
 **Default IDE**  
 <img height="14" src="https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1617325247/github-readme/Visual_Studio_Code_adjfaq.svg" />  Visual Studio Code
 
+**Secondary IDE**  
+<img height="14" src="https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1617325930/github-readme/sublime-text_e4r1bn.svg" />  Sublime Text 3
 
 **Languages and tools I commonly use:**  
 
