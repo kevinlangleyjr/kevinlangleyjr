@@ -4,14 +4,14 @@
 
 A passionate software engineer living in Central Florida with my partner, Katie, and our four amazing children.
 
-- 💼 &nbsp;&nbsp;I’m currently employed by [Human Made](https://hmn.md) as a Principal Web Engineer
-- 🔥 &nbsp;&nbsp;On the side, I can be found working on my side project, [Scrum.to](https://scrum.to)
+- 💼 &nbsp;&nbsp;I’m currently employed by [Human Made](https://hmn.md) as a Principal Web Engineer.
+- 🔥 &nbsp;&nbsp;On the side, I can be found working on my side project, [Scrum.to](https://scrum.to).
 - 🎉 &nbsp;&nbsp;Or contributing to [Blitz.js](https://github.com/blitz-js/blitz) as an L1 Maintainer.
 
 ## **Devices**
 🖥  &nbsp;&nbsp;**Hackintosh**
 - 3.6 GHz 10-Core Intel Core i9-10850K
-- 64 GB DDR4 RAM
+- 64GB DDR4 RAM
 - 1TB SSD
 - macOs Catalina
 - Apple Magic Keyboard with Numeric Keypad
@@ -25,7 +25,7 @@ A passionate software engineer living in Central Florida with my partner, Katie,
 
 💻  &nbsp;&nbsp;**13" 2019 MacBook Pro**
 - 2.8 GHz Quad-Core Intel Core i7
-- 16 GB RAM
+- 16GB RAM
 - 500GB SSD
 - macOs Catalina
 
@@ -44,6 +44,9 @@ A passionate software engineer living in Central Florida with my partner, Katie,
 
 **Secondary IDE**  
 <img height="14" src="https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1617325930/github-readme/sublime-text_e4r1bn.svg" />  Sublime Text 3
+
+**Default Shell**  
+<img height="14" src="https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1617360397/github-readme/terminal-icon_ytfyhm.svg" />  ZSH
 
 **Languages and tools I commonly use:**  
 
