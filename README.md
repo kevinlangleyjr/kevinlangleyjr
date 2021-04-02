@@ -9,13 +9,13 @@ A passionate software engineer living in Central Florida with my partner, Katie,
 - 🎉 Or contributing to [Blitz.js](https://github.com/blitz-js/blitz) as an L1 Maintainer.
 
 ### **Workstations**
-🖥   <span style="margin-left: 10px">**Hackintosh**</span>
+🖥  **Hackintosh**
 - 3.6 GHz 10-Core Intel Core i9-10850K
 - 64 GB DDR4 RAM
 - macOs Catalina
 
 
-💻   <span style="margin-left: 10px">**13" 2019 MacBook Pro**</span>
+💻  **13" 2019 MacBook Pro**
 - 2.8 GHz Quad-Core Intel Core i7
 - 16 GB RAM
 - macOs Catalina
