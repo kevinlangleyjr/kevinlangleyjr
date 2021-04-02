@@ -16,6 +16,11 @@ A passionate software engineer living in Central Florida with my partner, Katie,
 - macOs Catalina
 - Apple Magic Keyboard with Numeric Keypad
 - Apple Magic Trackpad 2
+- Logitech C920S HD Pro Webcam
+- Focusrite Scarlett 2i2 2nd Gen USB Audio Interface
+- Audio-Technica AT2020 Mic
+- Rockville APM5W 5.25" 2-Way 250 Watt Powered USB Studio Monitors
+- Sennheiser HD 280 PRO Headphones
 
 
 💻  &nbsp;&nbsp;**13" 2019 MacBook Pro**
