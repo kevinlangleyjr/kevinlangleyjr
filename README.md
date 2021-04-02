@@ -29,7 +29,7 @@ A passionate software engineer living in Central Florida with my partner, Katie,
 - 500GB SSD
 - macOs Catalina
 
-📱  &nbsp;&nbsp;**Google Pixel 3XL 128GB**
+📱 &nbsp;&nbsp;**Google Pixel 3XL 128GB**
 
 <img height="18" src="https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1617326788/github-readme/apple-ipad_qyj1we.svg" />&nbsp;&nbsp;**5th Generation iPad 32GB**
 
