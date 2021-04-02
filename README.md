@@ -13,12 +13,16 @@ A passionate software engineer living in Central Florida with my partner, Katie,
 - 3.6 GHz 10-Core Intel Core i9-10850K
 - 64 GB DDR4 RAM
 - macOs Catalina
+- Apple Magic Keyboard with Numeric Keypad
+- Apple Magic Trackpad 2
 
 
 💻  &nbsp;&nbsp;**13" 2019 MacBook Pro**
 - 2.8 GHz Quad-Core Intel Core i7
 - 16 GB RAM
 - macOs Catalina
+
+📱&nbsp;&nbsp;**Google Pixel 3XL 128GB**
 
 **Default Browser**  
 <img height="14" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" /> Google Chrome
