@@ -20,7 +20,7 @@ A passionate software engineer living in Central Florida with my partner, Katie,
 - Logitech C920S HD Pro Webcam
 - Focusrite Scarlett 2i2 2nd Gen USB Audio Interface
 - Audio-Technica AT2020 Mic
-- Rockville APM5W 5.25" 2-Way 250 Watt Powered USB Studio Monitors
+- Rockville APM5W 5.25" 2-Way 250 Watt Powered Studio Monitors
 - Sennheiser HD 280 PRO Headphones
 
 
