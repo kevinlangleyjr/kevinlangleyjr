@@ -14,6 +14,7 @@ A passionate software engineer living in Central Florida with my partner, Katie,
 - 64GB DDR4 RAM
 - 1TB SSD
 - macOs Catalina
+- (3) 27" QHD Monitors
 - Apple Magic Keyboard with Numeric Keypad
 - Apple Magic Trackpad 2
 - Logitech C920S HD Pro Webcam
