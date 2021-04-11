@@ -37,8 +37,10 @@ Over the years, my development setup has gone through several iterations. This i
 
 📱 &nbsp;&nbsp;**Google Pixel 3XL 128GB**
 
+
 <img height="18" src="https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1617326788/github-readme/apple-ipad_qyj1we.svg" />&nbsp;&nbsp;**5th Generation iPad 32GB**
 
+⌚️ &nbsp;&nbsp;**Fossil The Carlyle HR Gen 5**
 ### **Software**
 
 **Default Browser**  
