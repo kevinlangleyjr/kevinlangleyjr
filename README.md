@@ -25,7 +25,7 @@ I do most of my development work on my Hackintosh but regularly switch to my lap
 <br />
 
 <h3>
-  <span aria-label="Desktop" className="emoji" role="img">🖥</span>
+  <span aria-label="Desktop" className="emoji" role="img">🖥</span>&nbsp;&nbsp;
   Hackintosh
 </h3>
 
@@ -45,7 +45,7 @@ I do most of my development work on my Hackintosh but regularly switch to my lap
 <br />
 
 <h3>
-  <span aria-label="Laptop" className="emoji" role="img">💻</span>
+  <span aria-label="Laptop" className="emoji" role="img">💻</span>&nbsp;&nbsp;
   2019 13&quot; MacBook Pro
 </h3>
 
@@ -79,15 +79,19 @@ I do most of my development work on my Hackintosh but regularly switch to my lap
 ### Main tools
 
 **Browser**
+
 <img alt="Google Chrome" className="emoji" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" /> Google Chrome
 
 **IDE**
+
 <img alt="Visual Studio Code" className="emoji" height="20" src="https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1617325247/github-readme/Visual_Studio_Code_adjfaq.svg" /> Visual Studio Code w/ Monokai theme and <a href="https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack">Hack Nerd Font</a>
 
 **Terminal**
+
 <img alt="iTerm2" className="emoji" height="20" src="https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1617360397/github-readme/terminal-icon_ytfyhm.svg" /> iTerm2 w/ Solarized Dark theme and <a href="https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack">Hack Nerd Font</a>
 
 **Shell**
+
 <img alt="ZSH" className="emoji" height="20" src="https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1617360397/github-readme/terminal-icon_ytfyhm.svg" /> ZSH w/ Oh My ZSH and <a href="https://github.com/romkatv/powerlevel10k">PowerLevel 10k theme</a>
 
 ### Productivity
