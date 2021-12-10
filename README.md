@@ -9,7 +9,7 @@ I am a passionate software engineer living in Central Florida with my beautiful 
 - 🎉 &nbsp;&nbsp; Or contributing to [Blitz.js](https://blitzjs.com) as an L1 Maintainer and big fan!
 - 🦀 &nbsp;&nbsp; I am currently diving into [Rust](https://www.rust-lang.org/) because of it’s outstanding performance and interoperability with WebAssembly and JavaScript.
 
-## 🔧 Tools
+## 🔧 Tools I Enjoy Using
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org/)
