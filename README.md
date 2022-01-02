@@ -19,3 +19,6 @@ I am a passionate software engineer living in Central Florida with my beautiful 
 - [styled-components](https://styled-components.com/)
 - [Storybook](https://storybook.js.org/)
 - [Sass](https://sass-lang.com/)
+- [Playwright](https://playwright.dev/)
+- [Cypress](https://cypress.io/)
+- [Jest](https://jestjs.io/)
