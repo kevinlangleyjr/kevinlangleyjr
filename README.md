@@ -15,6 +15,7 @@ I am a passionate software engineer living in Central Florida with my beautiful 
 - [React](https://reactjs.org/)
 - [Next.js](https://nextjs.com/)
 - [Blitz.js](https://blitzjs.com/)
+- [tRPC](https://trpc.io/)
 - [Gatsby](https://www.gatsbyjs.com/)
 - [styled-components](https://styled-components.com/)
 - [Storybook](https://storybook.js.org/)
