@@ -6,8 +6,10 @@ I am a passionate software engineer living in Central Florida with my beautiful 
 
 - 💼 &nbsp;&nbsp; I’m currently employed by [1Password](https://1password.com) as a Senior Software Developer where I work on the administrator tools team.
 - 🔥 &nbsp;&nbsp; On the side, I can be found working on my side project, [Scrum.to](https://app.scrum.to), a planning poker scrum tool which connects to your GitHub repositories and makes estimation sessions a breeze.
-- 🎉 &nbsp;&nbsp; Or contributing to [Blitz.js](https://blitzjs.com) as an L1 Maintainer and big fan!
-- 🦀 &nbsp;&nbsp; I am currently diving into [Rust](https://www.rust-lang.org/) because of it’s outstanding performance and interoperability with WebAssembly and JavaScript.
+
+## Currently Learning
+🦀 - Rust  
+<img src="https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1660004816/github-readme/gopher_qnleyy.svg" width="24" /> - Go
 
 ## 🔧 Tools I Enjoy Using
 
