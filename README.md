@@ -4,7 +4,7 @@
 
 I am a passionate software engineer living in Gainesville, Florida with my beautiful partner, Katie, our four amazing children (Kevin, Xander, Kately, and Finley), our four dogs (d00dle, Zelda, Scout, and Nugget), our cat, Benji, and our raccoon, Rootbeer.
 
-- 💼 &nbsp;&nbsp; I’m currently employed by [1Password](https://1password.com) as a Senior Software Developer where I work on the User Lifecycle and Growth team.
+- 💼 &nbsp;&nbsp; I’m currently employed by [1Password](https://1password.com) as a Senior Software Developer where I work on the Channels team working on the MSP offering.
 - 🔥 &nbsp;&nbsp; On the side, I can be found working on my side project, [Scrum.to](https://app.scrum.to), a planning poker scrum tool which connects to your GitHub repositories and makes estimation sessions a breeze.
 
 ## Currently Learning
